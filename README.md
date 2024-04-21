@@ -12,4 +12,3 @@
 
 <img src="https://github.com/UNBunny/OOP_4lab_4sem/assets/112119548/127b3eaa-8c69-45de-8ace-bea237cdca7b" width="500">
 <img src="https://github.com/UNBunny/OOP_4lab_4sem/assets/112119548/6abf5237-e797-454a-99f0-4d84381380d8" width="500">
-<img src="https://github.com/UNBunny/OOP_3lab_4sem/assets/112119548/53a7cb0f-4bce-47c0-a288-1b7254e0fff2" width="500">
